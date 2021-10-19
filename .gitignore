@@ -3,3 +3,6 @@ obj
 .vscode
 .vs
 .DS_Store
+
+.fake
+.ionide
