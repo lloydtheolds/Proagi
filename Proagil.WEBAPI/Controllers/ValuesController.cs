@@ -11,7 +11,7 @@ using Proagil.WEBAPI.model;
 
 namespace Proagil.WEBAPI.Controllers
 {
-    [Route("matheus/[controller]")]
+    [Route("prodest/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
     {
